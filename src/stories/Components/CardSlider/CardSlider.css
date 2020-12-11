@@ -1,0 +1,17 @@
+.app {
+  width: 100%;
+  display: flex;
+  overflow: hidden;
+  text-align: center;
+}
+.btnnext,
+.btnprev {
+  position: relative;
+    bottom: 140px;
+}
+.btnprev{
+  left: 40;
+}
+.btnnext{
+  float: right
+}
